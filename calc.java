@@ -19,6 +19,12 @@ class clac{
 					System.out.println("Addition is : "+(a+b));
 					break;
 				case 2:
+					System.out.println("Enter two numbers : ");
+					float a = sc.nextFloat();
+                                        sc.nextLine();
+                                        float b = sc.nextFloat();
+                                        sc.nextLine();
+                                        System.out.println("Subtraction is : "+(a-b));
 					System.exit(0);
 					break;
 				default:

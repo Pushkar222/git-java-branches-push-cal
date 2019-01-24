@@ -9,7 +9,7 @@ class clac{
 			System.out.println("2. Substract two numbers");
 			System.out.println("3. Multiply two numbers");	
 			System.out.println("4. Exit");
-			choice = sc.nextInt();
+			choice = sc.nextInt);
 			sc.nextLine();
 			switch (choice){
 				case 1:

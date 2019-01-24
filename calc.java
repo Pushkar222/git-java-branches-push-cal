@@ -4,8 +4,8 @@ class clac{
 		Scanner sc = new Scanner(System.in);
 		int choice = 0;
 		do{
-			System.out.println("Enter your choice : ");
-			System.out.println("1. Add two numbers");
+			System.out.println("Enter your choice : ")
+			System.out.println("1. Add two numbers")
 			System.out.println("2. Substract two numbers");
 			System.out.println("3. Multiply two numbers");	
 			System.out.println("4. Exit");

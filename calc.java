@@ -1,3 +1,4 @@
+package com.mycompany.app;
 import java.util.*;
 class clac{
 	public static void main(String[] args){
